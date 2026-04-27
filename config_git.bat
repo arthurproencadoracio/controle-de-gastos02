@@ -4,8 +4,8 @@ echo Configurando seu usuario do Git...
 echo.
 
 :: Comandos de configuracao
-git config --global user.name "cadusantosofc"
-git config --global user.email "cadusantos.paiva@gmail.com"
+git config --global user.name "arthurproencadoracio"
+git config --global user.email "arthur@doracio@gmail.com"
 
 echo ---------------------------------------
 echo Nome definido para: cadusantosofc
