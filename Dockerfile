@@ -1,5 +1,5 @@
 # Estágio 1: Build da Aplicação com Eclipse Temurin JDK
-FROM eclipse-temurin:21-jdk-jammy as builder
+FROM eclipse-temurin:21-jdk-jammy AS builder
 WORKDIR /app
 COPY .mvn/ .mvn
 COPY mvnw .
